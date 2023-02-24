@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/defaultuser0/clientVK/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.16835443037974684" />
+        <entry key="..\:/Users/defaultuser0/clientVK/app/src/main/res/drawable/buttonimg.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/defaultuser0/clientVK/app/src/main/res/font/fonts.xml" value="0.19537037037037036" />
+        <entry key="..\:/Users/defaultuser0/clientVK/app/src/main/res/font/minefont.xml" value="0.19537037037037036" />
+        <entry key="..\:/Users/defaultuser0/clientVK/app/src/main/res/layout/activity_ava_recyc.xml" value="0.25" />
+        <entry key="..\:/Users/defaultuser0/clientVK/app/src/main/res/layout/activity_fullpic.xml" value="0.13858695652173914" />
+        <entry key="..\:/Users/defaultuser0/clientVK/app/src/main/res/layout/activity_lvkactivity.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/defaultuser0/clientVK/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/defaultuser0/clientVK/app/src/main/res/layout/activity_messeng.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/defaultuser0/clientVK/app/src/main/res/layout/activity_vkava_layout.xml" value="0.15726495726495726" />
+        <entry key="..\:/Users/defaultuser0/clientVK/app/src/main/res/layout/activity_vkava_layout_test.xml" value="0.15726495726495726" />
+        <entry key="..\:/Users/defaultuser0/clientVK/app/src/main/res/layout/fragment_empry.xml" value="0.15726495726495726" />
+        <entry key="..\:/Users/defaultuser0/clientVK/app/src/main/res/layout/fragment_fragm_ava1.xml" value="0.13376068376068376" />
+        <entry key="..\:/Users/defaultuser0/clientVK/app/src/main/res/layout/fragment_fragm_ava2.xml" value="0.14572649572649574" />
+        <entry key="..\:/Users/defaultuser0/clientVK/app/src/main/res/layout/fragment_fragm_ava3.xml" value="0.14572649572649574" />
+        <entry key="..\:/Users/defaultuser0/clientVK/app/src/main/res/layout/fragment_fragm_ava4.xml" value="0.15726495726495726" />
+        <entry key="..\:/Users/defaultuser0/clientVK/app/src/main/res/layout/fragment_fullimage.xml" value="0.15726495726495726" />
+        <entry key="..\:/Users/defaultuser0/clientVK/app/src/main/res/layout/listviewmesseg.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/defaultuser0/clientVK/app/src/main/res/layout/test_activity_vkava_layout.xml" value="0.22" />
+        <entry key="..\:/Users/defaultuser0/clientVK/app/src/main/res/mipmap-anydpi-v26/VKic.xml" value="0.17051282051282052" />
+        <entry key="..\:/Users/defaultuser0/clientVK/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="jbr-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

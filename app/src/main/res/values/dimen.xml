@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="loadersize">50dp</dimen>
+    <dimen name="thinkloader">18dp</dimen>
+    <dimen name="avatarSize">50dp</dimen>
+    <dimen name="AvaOneTreewidthheight">105dp</dimen>
+    <dimen name="AvamarginEnd">140dp</dimen>
+
+</resources>

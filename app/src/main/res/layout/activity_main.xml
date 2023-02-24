@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        tools:context=".activity.q.MainActivity">
+
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginEnd="32dp"
+            android:layout_gravity="center"
+            android:gravity="center">
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/test" android:gravity="center" android:fontFamily="@font/minefont"
+                android:textSize="21sp"/>
+
+        <Button
+                android:layout_width="240dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="40dp"
+                android:id="@+id/mainlogV"
+                app:cornerRadius="40dp"
+                android:text="Войти"/>
+
+        <com.github.rahatarmanahmed.cpv.CircularProgressView
+                android:id="@+id/loadV"
+                android:layout_width="@dimen/loadersize"
+                android:layout_height="@dimen/loadersize"
+                android:layout_marginTop="10dp"
+                app:cpv_color="@color/blueVK"
+                app:cpv_indeterminate="true" app:cpv_animAutostart="false"
+                app:cpv_thickness="@dimen/thinkloader"
+                android:visibility="invisible"/>
+
+    </LinearLayout>
+
+</FrameLayout>

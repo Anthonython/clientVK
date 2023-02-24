@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">clientVK</string>
+    <string name="test">Здравствуйте!\n Войдите, пожалуйста, в профиль.</string>
+    <integer name="com_vk_sdk_AppId">51481899</integer>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="failed">Ошибка загрузки аватарки, id: $id</string>
+    <string name="failedmine">Ошибка при входе</string>
+    <string name="SlideToast">Смахните вверх или вниз, чтобы выйти из полноэкранного режима</string>
+    <string name="linkpic">linkpic</string>
+    <string name="friendsname">Введите имя друга</string>
+
+
+</resources>
